@@ -3,6 +3,10 @@ body {
   background-color: #fcf9f9;
 }
 
+h1 {
+  text-align: center;
+}
+
 li {
   list-style: decimal;
   padding-right: 8px;
